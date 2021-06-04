@@ -7,7 +7,7 @@
     <ProjectGuid>{73CC50D8-4E30-47C7-B0D4-6F9BC7D0C82A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>IngameScript</RootNamespace>
-    <AssemblyName>space_engineers</AssemblyName>
+    <AssemblyName>ElevatorRotors</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

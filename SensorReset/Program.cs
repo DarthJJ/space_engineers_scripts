@@ -30,6 +30,7 @@ namespace IngameScript
             commandLine = new MyCommandLine();
             commands = new Dictionary<string, Action>(StringComparer.OrdinalIgnoreCase);
             commands["init"] = InitSensors;
+            InitSensors();
         }
 
         public void Save()

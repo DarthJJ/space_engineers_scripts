@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorRotors", "space_engineers\ElevatorRotors.csproj", "{73CC50D8-4E30-47C7-B0D4-6F9BC7D0C82A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorRotors", "ElevatorRotors\ElevatorRotors.csproj", "{73CC50D8-4E30-47C7-B0D4-6F9BC7D0C82A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorReset", "SensorReset\SensorReset.csproj", "{AA97194D-F907-4FB1-9363-80160A6C9C33}"
 EndProject
